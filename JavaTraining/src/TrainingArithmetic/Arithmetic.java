@@ -1,4 +1,4 @@
-package TrainingAirthmetic;
+package TrainingArithmetic;
 
 public class Arithmetic {
 
@@ -10,5 +10,4 @@ public class Arithmetic {
 		System.out.println(c);
 		System.out.println(r);
 	}
-
 }
